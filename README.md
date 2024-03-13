@@ -41,6 +41,8 @@ Scalability: Capable of accommodating growth in products and orders.<br>
 
 <b>Sample Screenshot 3:</b><br>
 <br>
+![Screenshot (37)](https://github.com/deekshatmanhotra/E-Commerce/assets/160055819/b6c18985-4e33-47ec-a6a4-240d5ab424a0)
+
 
 
 <b>Getting Started:</b><br>
