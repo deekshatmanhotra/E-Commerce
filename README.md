@@ -31,6 +31,18 @@ Enhanced User Experience: Simplifies the shopping process for users.<br>
 Efficient Order Management: Streamlines order handling for administrators.<br>
 Scalability: Capable of accommodating growth in products and orders.<br>
 
+<b>Sample Screenshot 1:</b><br>
+<br>
+![Screenshot (34)](https://github.com/deekshatmanhotra/E-Commerce/assets/160055819/1595822c-8247-4064-b97d-a06c49df76d1)
+
+<b>Sample Screenshot 2:</b><br>
+<br>
+![Screenshot (35)](https://github.com/deekshatmanhotra/E-Commerce/assets/160055819/1139d013-dda7-4f14-b0d8-f935bca24871)
+
+<b>Sample Screenshot 3:</b><br>
+<br>
+
+
 <b>Getting Started:</b><br>
 Clone the repository: git clone https://github.com/your-username/e-commerce-website.<br>
 Install dependencies.<br>
